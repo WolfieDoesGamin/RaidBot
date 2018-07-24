@@ -77,4 +77,4 @@ Il fonctionne comme l'autre bot.
 
 
 
-tg :)
+:)
